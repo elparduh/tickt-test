@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "680347675358",
+    "project_id": "test-ticket-app-90811",
+    "storage_bucket": "test-ticket-app-90811.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:680347675358:android:eb326e8e80358a602f304f",
+        "android_client_info": {
+          "package_name": "com.parduh.ticket_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD_2dYWnv-LL-ADRFjEgfthrcs89KEhs14"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
