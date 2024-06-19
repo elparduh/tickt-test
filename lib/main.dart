@@ -1,3 +1,6 @@
+import 'dart:ffi';
+
+import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 
 void main() {
@@ -18,8 +21,13 @@ class MyApp extends StatelessWidget {
       ),
       home: Scaffold(
         appBar: AppBar(),
-        body:  const Center(
-          child: Text('hello flutter'),
+        body: Center(
+          child: Container(
+            color: Colors.blueAccent,
+            width: double.infinity,
+            height: 100,
+            child: const Text('hello flutter'),
+          ),
         ),
       ),
     );
